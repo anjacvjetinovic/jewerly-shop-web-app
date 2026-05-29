@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Zlatara "Koral"</title>
+    <!--<link rel="stylesheet" href="./style.css"> -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./fontawesome/fontawesome-free-6.7.2-web/css/all.min.css">
+</head>
+<body>
+    <div class="contaier" id="signup"></div>
+    <h1 class="form-title">Register</h1>
+    <form action="post" action="">
+        <div class="input-group">
+            <i class="fas fa-user"></i>
+            <input type="text" name="fName" id="fName" placeholder="ime" required>
+            <label for="fname">Ime:</label>
+        </div>
+        <div class="input-group">
+            <i class="fas fa-user"></i>
+            <input type="text" name="lName" id="lName" placeholder="prezime" required>
+            <label for="lName"> Prezime:</label>
+        </div>
+        <div class="input-group">
+            <i class="fas fa-envelope"></i>
+            <input type="email" name="email" id="email" placeholder="email" required>
+            <label for="email">Email</label>
+        </div>
+        <div class="input-group">
+            <i class="fas fa-lock"></i>
+            <input type="password" id="password" placeholder="lozinka" required>
+            <label for="password">Lozinka</label>
+        </div>
+        <input type="submit" class="btn" value="Prijavi se" name="signup">
+        <p class="or">
+            ----------ili----------
+        </p>
+        <div class="links">
+            <p>Vec imate nalog?</p>
+            <button id="signIButton">Sign In</button>
+        </div>
+    </form>
+</body>
+</html>

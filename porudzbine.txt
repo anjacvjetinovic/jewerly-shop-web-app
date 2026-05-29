@@ -1,0 +1,23 @@
+Porudzbina #1 korisnika 7 - 2026-03-05 14:48:56 - Ukupno: 23430 RSD
+Porudzbina #2 | Email: sara@gmail.com | Datum: 2026-03-05 14:57:54 | Isporuka: 08.03.2026 | Ukupno: 17200 RSD
+Porudzbina #3 | Email: mm@gmail.com | Datum: 2026-03-05 15:01:06 | Isporuka: 08.03.2026 | Ukupno: 10800 RSD
+Porudzbina ID 1 je poslata. 
+Porudzbina ID 3 je poslata. 
+Porudzbina ID: 4, korisnik: pp@gmail.com, datum: 2026-03-05 15:27:47
+Porudzbina ID 4 je poslata. 
+Porudzbina #5 | Email: andrijana@gmail.com | Datum: 2026-03-05 15:32:21 | Isporuka: 2026-03-08 | Ukupno: 23622.00 RSD
+Porudzbina ID 5 je poslata. 
+Porudzbina #6 | Email: marko@gmail.com | Datum: 2026-03-05 15:38:46 | Isporuka: 2026-03-08 | Ukupno: 45690.00 RSD
+Porudzbina ID 2 je poslata. 
+Porudzbina #7 | Email: mm@gmail.com | Datum: 2026-03-05 15:52:33 | Isporuka: 2026-03-08 | Ukupno: 11400.00 RSD
+Porudzbina #8 | Email: marko@gmail.com | Datum: 2026-03-05 16:56:33 | Isporuka: 2026-03-08 | Ukupno: 12200.00 RSD
+Porudzbina #9 | Email: marko@gmail.com | Datum: 2026-03-05 17:01:52 | Isporuka: 2026-03-08 | Ukupno: 22500.00 RSD
+Porudzbina #10 | Email: mm@gmail.com | Datum: 2026-03-05 17:53:23 | Isporuka: 2026-03-08 | Ukupno: 8422.00 RSD
+Porudzbina #11 | Email: ilic@gmail.com | Datum: 2026-03-05 18:58:17 | Isporuka: 2026-03-08 | Ukupno: 14621.00 RSD
+Porudzbina ID 8 je poslata. 
+Porudzbina ID 6 je poslata. 
+Porudzbina ID 9 je poslata. 
+Porudzbina ID 11 je poslata. 
+Porudzbina #10 | Email: mm@gmail.com | Datum: 2026-03-05 17:53:23 | Isporuka: 2026-03-08 | Ukupno: 8422.00 RSD
+Porudzbina #12 | Email: tara@gmail.com | Datum: 2026-03-11 00:19:31 | Isporuka: 2026-03-14 | Ukupno: 21100.00 RSD
+Porudzbina #13 | Email: mm@gmail.com | Datum: 2026-03-11 17:32:52 | Isporuka: 2026-03-14 | Ukupno: 24722.00 RSD
