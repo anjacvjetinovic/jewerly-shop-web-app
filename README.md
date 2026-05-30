@@ -28,6 +28,12 @@ This project is a jewelry shop web application developed using PHP, HTML, CSS, J
 
 The application is designed as an online jewelry store with multiple product categories such as necklaces, bracelets, rings, and watches. Users can create accounts, explore products, add items to favorites or cart, and complete the ordering process. The project also includes administrative functionalities for managing products and customer orders.
 
+## Note
+
+The **View** folder contains screenshots demonstrating both the **Admin Panel** and the **User Panel** of the application.
+These screenshots provide an overview of the system's functionality, including product management, order processing, and the user shopping experience.
+
+
 ## Future Improvements
 
 * Add online payment integration
